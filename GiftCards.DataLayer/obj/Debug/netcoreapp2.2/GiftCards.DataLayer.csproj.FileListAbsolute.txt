@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.deps.json
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.Entities.dll
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\GiftCards.Entities.pdb
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.xml
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.dll
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.DataLayer\obj\Debug\netcoreapp2.2\GiftCards.DataLayer.pdb

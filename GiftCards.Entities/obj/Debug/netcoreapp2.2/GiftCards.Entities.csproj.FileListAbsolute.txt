@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.Entities\bin\Debug\netcoreapp2.2\GiftCards.Entities.deps.json
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.Entities\bin\Debug\netcoreapp2.2\GiftCards.Entities.dll
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.Entities\bin\Debug\netcoreapp2.2\GiftCards.Entities.pdb
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.Entities\obj\Debug\netcoreapp2.2\GiftCards.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.Entities\obj\Debug\netcoreapp2.2\GiftCards.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.Entities\obj\Debug\netcoreapp2.2\GiftCards.Entities.AssemblyInfo.cs
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.Entities\obj\Debug\netcoreapp2.2\GiftCards.Entities.dll
+C:\Users\hp\source\repos\GiftCards_DotNet_MongoDb\GiftCards.Entities\obj\Debug\netcoreapp2.2\GiftCards.Entities.pdb
